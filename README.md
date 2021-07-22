@@ -1,10 +1,13 @@
-# Beschreibung der Ressourcen
+# Liste obersorbische Begriffe für die Software "Jitsi" 
 
-Was kann man hier finden?
+Übersetzungen für alle Begriffe, die für die Software "Jitsi" (https://de.wikipedia.org/wiki/Jitsi) benötigt werden, ins
+Obersorbische.
 
-# Nennung der Autoren
+# Mitwirkende
 
-Wer hat an diesen Ressourcen mitgearbeitet (Personen und/oder Institutionen)?
+- Daniel Sobe
+
+- Stiftung für das sorbische Volk
 
 # Lizenz
 
