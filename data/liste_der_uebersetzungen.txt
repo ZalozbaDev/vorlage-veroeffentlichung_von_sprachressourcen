@@ -1,3 +1,3 @@
-Deutsch		Obersorbisch
-Ja			haj
-Nein		ně
+Deutsch     Obersorbisch
+Ja          haj
+Nein        ně
